@@ -1,7 +1,7 @@
 # Space Defender
 stage: в разработке
 
-[Design Documentation](https://docs.google.com/document/d/1P6l0y2K2D2z4WbhaLaGhtE4IQZTNRimQ_KtBZdDmz9U/edit?usp=sharing)
+[Simple Design Documentation](https://docs.google.com/document/d/1P6l0y2K2D2z4WbhaLaGhtE4IQZTNRimQ_KtBZdDmz9U/edit?usp=sharing)
 
 ## Сеттинг
 Минималистичный. Подразумевается использование встроенных в Unity инструментов для создания фигур или эффектов, используя геометрические фигуры.
