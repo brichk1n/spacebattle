@@ -1,5 +1,6 @@
-# Space Defender
+# Space Battle
 stage: в разработке
+
 Unity version: [2021.3.23f1](https://unity.com/releases/editor/qa/lts-releases?version=2021.3)
 
 [Simple Design Documentation](https://docs.google.com/document/d/1P6l0y2K2D2z4WbhaLaGhtE4IQZTNRimQ_KtBZdDmz9U/edit?usp=sharing)
