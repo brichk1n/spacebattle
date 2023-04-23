@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerInput
+public class PlayerInput : MonoBehaviour
 {
     private Vector3 playerInputVector;
     private float horizontalInput;
